@@ -1,0 +1,34 @@
+Metadata-Version: 1.0
+Name: shpaml
+Version: 1.00b
+Summary: Light syntax layer for HTML
+Home-page: http://shpaml.webfactional.com/
+Author: Steve Howell
+Author-email: shpaml@googlegroups.com
+License: UNKNOWN
+Download-URL: http://shpaml.webfactional.com/source_code
+Description:         SHPAML is a mini language that can help you to build web pages
+                more quickly. It leverages familiar concepts from HTML and CSS,
+                while striving to bring brevity and clarity to the primary
+                documents that you edit. It plays nice with templating languages.
+        
+                SHPAML allows you to produce HTML with cleaner syntax, without
+                introducing any other layer of abstraction. It does so in the
+                following ways:
+        
+                   1. Reduce punctuation
+                   2. Reduce the need for end tags
+                   3. Mimic CSS selector syntax
+                   4. Allow well-formed HTML to pass through
+                   5. Play nice with templating languages
+        
+Keywords: shpaml,haml,html
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: Freely Distributable
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing :: Markup :: HTML
